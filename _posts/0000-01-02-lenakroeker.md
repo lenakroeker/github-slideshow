@@ -2,5 +2,5 @@
 layout:slide
 title:"welcome to our second slide!"
 ---
-here it is!
+new statement!
 use the left arrow to go back!
